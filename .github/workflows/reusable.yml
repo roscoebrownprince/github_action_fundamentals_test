@@ -9,7 +9,7 @@ on:
         required: true
         default: World
 
-job:
+jobs:
   reusable-job:
     runs-on: ubuntu-latest
     steps:
